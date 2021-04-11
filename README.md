@@ -1,6 +1,6 @@
 ### Hello
 
-I'm a Software Engineer at the (BBC)[https://www.bbc.co.uk/].
+I'm a Software Engineer at the [BBC](https://www.bbc.co.uk/).
 
 Current repos (I'm working on):
 - https://github.com/j-perry/troposphere-helper
