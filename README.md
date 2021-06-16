@@ -4,7 +4,6 @@ I'm a Software Engineer at the [BBC](https://www.bbc.co.uk/).
 
 Current repos (I'm working on):
 - https://github.com/j-perry/troposphere-helper
-- https://github.com/j-perry/ami-server
 
 Repos (if your starting out in microservice / web development):
 - https://github.com/j-perry/NodeJS-ES6
