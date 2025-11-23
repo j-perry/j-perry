@@ -2,6 +2,8 @@
 
 I'm a Software Engineer at the [BBC](https://www.bbc.co.uk/).
 
+C (lang): https://github.com/j-perry/Vigenere-Cipher
+
 Current repos (I'm working on):
 - https://github.com/j-perry/troposphere-helper
 
